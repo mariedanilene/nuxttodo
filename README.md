@@ -1,6 +1,6 @@
-# credme
+# nuxtTodo
 
-> Primo application
+> Todo application using Nuxt
 
 ## Build Setup
 

@@ -1,7 +1,7 @@
 {
-  "name": "credme",
+  "name": "nuxtTodo",
   "version": "1.0.0",
-  "description": "Primo application",
+  "description": "Todo application using Nuxt",
   "author": "Marie Danilene Bulosan",
   "private": true,
   "scripts": {
